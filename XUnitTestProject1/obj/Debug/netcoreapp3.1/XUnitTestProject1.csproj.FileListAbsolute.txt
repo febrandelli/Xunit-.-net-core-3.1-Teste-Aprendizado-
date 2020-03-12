@@ -95,3 +95,5 @@ C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\obj\Debug\netcore
 C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\obj\Debug\netcoreapp3.1\XUnitTestProject1.csproj.CopyComplete
 C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\obj\Debug\netcoreapp3.1\XUnitTestProject1.dll
 C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\obj\Debug\netcoreapp3.1\XUnitTestProject1.pdb
+C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\felipe.brandelli\source\repos\Teste\XUnitTestProject1\bin\Debug\netcoreapp3.1\Moq.dll
